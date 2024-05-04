@@ -16,7 +16,7 @@ Below is a list of resources that we referenced during our talk or recommend for
 - **TFHE**: The TFHE library is available on crates.io at [tfhe](https://crates.io/crates/tfhe).
 - **AWS Encryption SDK**: Learn more about the AWS Encryption SDK by visiting the [AWS Encryption SDK Developer Guide](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/introduction.html).
 - **AWS Key Management Service (KMS)**: Explore the AWS Key Management Service (KMS) by visiting the [AWS KMS Documentation](https://docs.aws.amazon.com/kms/).
-- **ZeroKMS**: Learn more about ZeroKMS by visiting the [ZeroKMS Documentation](https://cipherstash.com/docs/zerokms).
+- **ZeroKMS**: Learn more about ZeroKMS by visiting the [ZeroKMS Documentation](https://cipherstash.com/docs/concepts/zero-trust-key-management).
 - **ORE Whitepaper**: Read the original Order-Revealing Encryption (ORE) whitepaper at [eprint.iacr.org/2020/1153.pdf](https://eprint.iacr.org/2020/1153.pdf).
 - **STE Whitepaper**: Read the original Searchable Symmetric Encryption (SSE) whitepaper at [cs.brown.edu/~seny/2950-v/ste.pdf](https://cs.brown.edu/~seny/2950-v/ste.pdf).
 - **FHE Whitepaper**: Read the original Fully Homomorphic Encryption (FHE) whitepaper at [eprint.iacr.org/2016/612.pdf](https://eprint.iacr.org/2016/612.pdf).
@@ -29,6 +29,7 @@ For those interested in learning more about CipherStash, below are some links th
 - **Official Website**: Visit the [CipherStash Official Website](https://cipherstash.com) for comprehensive information about the platform.
 - **Documentation**: Dive into the [CipherStash Documentation](https://cipherstash.com/docs) for detailed guides.
 - **Blog**: Read our [Blog](https://cipherstash.com/blog) for the latest updates, insights, and stories from the development team behind CipherStash.
+- **Whitepaper**: Download the [Whitepaper](https://cipherstash.com/whitepaper).
 
 Thank you once again for joining us, and please do not hesitate to reach out if you have any further questions or feedback!
 
