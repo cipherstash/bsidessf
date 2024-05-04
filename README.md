@@ -11,7 +11,7 @@ We appreciate you joining us for our talk at [2024 BSidesSF](https://bsidessf.or
 Below is a list of resources that we referenced during our talk or recommend for further reading. These resources should help you deepen your understanding of the topics we covered:
 
 - **Order-Revealing Encryption (ORE) Library**: The ORE library used by the CipherStash searchable encryption platform is available on GitHub at [cipherstash/ore.rs](https://github.com/cipherstash/ore.rs).
-- **Envelope Encryption Library**: A very simple envelope encryption library is available on GitHub at [cipherstash/envelopers](
+- **Envelope Encryption Library**: A very simple envelope encryption library is available on GitHub at [cipherstash/envelopers](https://github.com/cipherstash/envelopers).
 - **TFHE ORE Bench**: A benchmarking tool for the TFHE ORE library is available on GitHub at [cipherstash/tfhe-ore-bench](https://github.com/cipherstash/tfhe-ore-bench).
 - **TFHE**: The TFHE library is available on crates.io at [tfhe](https://crates.io/crates/tfhe).
 - **AWS Encryption SDK**: Learn more about the AWS Encryption SDK by visiting the [AWS Encryption SDK Developer Guide](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/introduction.html).
